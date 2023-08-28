@@ -1,1 +1,1 @@
-# iniviandoJS2
+# iniciandoJS2
